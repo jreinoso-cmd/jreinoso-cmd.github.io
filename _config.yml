@@ -121,7 +121,7 @@ author:
   links:
     - label: "josereinoso27@proton.me"
       icon: "fas fa-fw fa-envelope-square"
-      url: "josereinoso27@proton.me"
+     # url: "josereinoso27@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
