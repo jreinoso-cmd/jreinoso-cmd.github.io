@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my blog."
   location         : "Córdoba, Argentina"
-  email            : "josereinoso27@proton.me"
+  #email            : "josereinoso27@proton.me"
   links:
     - label: "josereinoso27@proton.me"
       icon: "fas fa-fw fa-envelope-square"
