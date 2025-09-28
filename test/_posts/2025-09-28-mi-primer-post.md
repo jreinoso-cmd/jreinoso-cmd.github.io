@@ -20,3 +20,15 @@ Aquí puedes escribir el contenido de tu post en Markdown, añadir imágenes, c�
 
 ---
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
